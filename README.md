@@ -19,6 +19,11 @@ Steve parents passionate about green energy but do not know much about it. They 
 The analysis shows the return investment for 99% of the stock was high in 2017. The DQ stock stands out as the daily volume was not so high but the return percentage was the highest for 2017 over all the other stocks. Overall, 2017 seems like a profitable year.
 2018 was an underperformed year except for two stocks. ENPH and RUN, both of which also made a profit the previous year but seems like ENPH still underperformed but RUN did very well in 2018 then in 2017 with both the daily volume and the return.
 
+![VBA_Challenge_2017](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+
+
+![VBA_Challenge_2018](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+
 ## Summary:
 
 Essentially editing the existing code to determine if it will run faster than the one with all the stocks analysis. For it to properly work, it needs to be done in small steps, the steps are completed without major changes to existing code. Creating the 3 variable and defining the index help with the speed process.
